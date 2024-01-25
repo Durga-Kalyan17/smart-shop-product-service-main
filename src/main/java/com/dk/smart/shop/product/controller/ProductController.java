@@ -22,7 +22,7 @@ import com.dk.smart.shop.product.service.ProductService;
 @RestController
 @RequestMapping("/smart/shop/product")
 public class ProductController {
-
+// test
 	@Autowired
 	ProductService productService;
 
